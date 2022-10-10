@@ -1,0 +1,20 @@
+<diagram program="umletino" version="15.0.0"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLSequenceAllInOne</id><coordinates><x>100</x><y>210</y><w>780</w><h>430</h></coordinates><panel_attributes>title=A complex combined fragments
+obj=Bruker ~a
+obj=Kortleser~b
+obj=Server~c
+obj=Database~d
+
+a-&gt;&gt;&gt;b : Tast inn pin og kort ID
+
+b-&gt;&gt;&gt;c+1 : Sender kort ID og pin
+on=c;
+c-&gt;&gt;&gt;d : request pin for kort id
+d-&gt;c :  pin
+
+c-&gt;b : Bekreftelse/avkreftelse
+off=c; 
+
+b-&gt;a : Dør låses opp eller forblir låst
+
+
+</panel_attributes><additional_attributes></additional_attributes></element></diagram>
