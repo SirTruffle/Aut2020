@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stian\\OneDrive - Høgskulen på Vestlandet\\Skule\\Git projects\\Aut2020\\5th Semester\\Industriell IT\\Semesteroppgave\\Sentral\\Sentral\\Sentral.csproj": {}
+    "C:\\Users\\awill\\source\\repos\\SirTruffle\\Aut2020\\Semesteroppgave Industriell IT\\Sentral\\Sentral\\Sentral.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stian\\OneDrive - Høgskulen på Vestlandet\\Skule\\Git projects\\Aut2020\\5th Semester\\Industriell IT\\Semesteroppgave\\Sentral\\Sentral\\Sentral.csproj": {
+    "C:\\Users\\awill\\source\\repos\\SirTruffle\\Aut2020\\Semesteroppgave Industriell IT\\Sentral\\Sentral\\Sentral.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stian\\OneDrive - Høgskulen på Vestlandet\\Skule\\Git projects\\Aut2020\\5th Semester\\Industriell IT\\Semesteroppgave\\Sentral\\Sentral\\Sentral.csproj",
+        "projectUniqueName": "C:\\Users\\awill\\source\\repos\\SirTruffle\\Aut2020\\Semesteroppgave Industriell IT\\Sentral\\Sentral\\Sentral.csproj",
         "projectName": "Sentral",
-        "projectPath": "C:\\Users\\stian\\OneDrive - Høgskulen på Vestlandet\\Skule\\Git projects\\Aut2020\\5th Semester\\Industriell IT\\Semesteroppgave\\Sentral\\Sentral\\Sentral.csproj",
-        "packagesPath": "C:\\Users\\stian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stian\\OneDrive - Høgskulen på Vestlandet\\Skule\\Git projects\\Aut2020\\5th Semester\\Industriell IT\\Semesteroppgave\\Sentral\\Sentral\\obj\\",
+        "projectPath": "C:\\Users\\awill\\source\\repos\\SirTruffle\\Aut2020\\Semesteroppgave Industriell IT\\Sentral\\Sentral\\Sentral.csproj",
+        "packagesPath": "C:\\Users\\awill\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\awill\\source\\repos\\SirTruffle\\Aut2020\\Semesteroppgave Industriell IT\\Sentral\\Sentral\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\stian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\awill\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
